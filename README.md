@@ -1,10 +1,6 @@
 # PhotoX 📷
 
-A clean, responsive **photography portfolio website** built with pure HTML & CSS — featuring a smooth animated sidebar navigation with **zero JavaScript**.
-
-
-![PhotoX Preview](Screenshot.png)
-
+A clean, responsive **photography portfolio website** built with pure HTML & CSS — featuring a smooth animated sidebar navigation with **zero JavaScript*
 
 ---
 ---
